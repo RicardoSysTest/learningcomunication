@@ -3,6 +3,7 @@ title: "Mejorar nuestra forma de escuchar"
 permalink: /improve-listening
 
 # Mejorar Nuestra Forma de escuchar
+Buscamos confirmar al emisor que estamos en la conversacion con el transmisor. Usaremos Retrorastreo, Reflejo y Rapor para estar presentes en la comunicacion generar un atencion en la comunicacion. Un gran escucha escucha antes de responder asegurandose de estar complementamente presente a traves de la igualacion corporal, sintonia afectiva y entendimiento racional (los tres acentos de las personas)
 
 ## Escucha Profunda (Escucha Activa)
 Comencemos con decir que no es lo mismo escuchar que oir. Y diremos que escuhar es un oir con calidad. Diremos que la comunicacion moderna no solo recae en el emisor. 
@@ -43,3 +44,8 @@ hace a traves de los gestos (gestiulacion: ojos, cara, ruido, respiracion). El r
 hacer reflejo implica que debe de gesticular acompañe en respuesta a lo que nos estan contando (admiracion por lo que te cuentan, o risa si es algo chistoso, etc...)
 
 Diremos que el reflejo confirma que comprendemos el sentimiento que acompaña al mensaje. 
+
+## El Retrorrastreo
+El retrotrastreo es la confirmacion conceptual de la informacion que nos esan transmitiendo. La idea del retro-rastreo es confirmar que la parte conceptual del mensaje llego integra o al menos se entendio. Buscamos con esta herramienta tener una  claridad Mental, Emocional y Fisica del mensaje. 
+
+El retrorrastreo consiste en sintetizar y parafrasear lo dicho antes de emitir nuestra opinion o responder al mensaje en cuestion, buscamos "confirmar antes de avanzar" 
