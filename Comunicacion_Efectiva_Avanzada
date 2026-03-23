@@ -1,4 +1,12 @@
 # Comunicacion Efectiva Avanzada
+El Mapa de la Comunicacion Efectiva
+```mermaid
+---
+title: Node
+---
+flowchart LR
+    id
+```
 
 ## Los Acuerdos (¿Como hacer acuerdos claros para que se cumplan los objetivos?)
 Definir acuerdos internos o con los demas, establecer claramente que quiero lograr y cuales son mis
@@ -12,6 +20,27 @@ hagan otras cosas. Los elementos de un acuerdo deben de tener definido:
 * Las acciones concretas que se ofertan o piden
 * Condiciones de satisfaccion
 * La fecha y hora de conclusion
+
+## Ejercicio
+De la Siguiente expresion eliminemos la ambiguedad definiendo preguntas que nos clarifican la comunicacion:
+* Dicen que el proximo fin de semana es puente.
+  * ¿Quien dice o aquien se refiere?
+* Que si pueden echaronos una mano mañana
+  * A quien se le dice
+  * Quien lo solicita
+* Pongase pilas que ahi viene lo bueno
+  * Que quieres decir con ponganse pilas
+* Siempre se les olivda lo que les piden
+* Necesitamos que organicen los reportes para entregarlos
+* Estan pidiendo que origanicen una organizacion urgente
+   
+## Caracteristicas esenciales de un Acuero
+1. ¿Que se propone?
+2. ¿Como debe de hacerse?
+3. ¿Cuando o a partir de cuando?
+4. ¿Quien lo propone?
+5. ¿A quien se lo propone?
+
 
 
 ##Bibliografia
