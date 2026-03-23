@@ -5,7 +5,23 @@ El Mapa de la Comunicacion Efectiva
 title: Node
 ---
 flowchart LR
-    id
+    acuerdo["Acuerdos"]
+    respuestas["Respuestas"]
+    mejora["Se puede Mejorar"]
+    si_cumple["Se Cumple el Acuerdo"]
+    no_cumple["No Cumple el Acuerdo"]
+    agradecimientos["Agradecimientos"]
+    disculpa["Disculpa"]
+    retro["Retroalimentacion"]
+    reclamo["Reclamo"]
+    acuerdo --> respuesta
+    respuesta --> si_cumple
+    respuesta --> no_cumple
+    respuesta --> mejora
+    si_cumple --> agradecimientos
+    no_cumple --> disculpa
+    disculpa --> reclamo
+     mejora --> retro
 ```
 
 ## Los Acuerdos (¿Como hacer acuerdos claros para que se cumplan los objetivos?)
